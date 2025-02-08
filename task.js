@@ -167,3 +167,64 @@
 // else{
 //     console.log(ticketFare);
 // }
+
+
+// -----Array------
+// // Task -1 Declare an array
+// var fruits = ['orange', 'apple', 'mango', 'lichi', 'Watermelon'];
+// console.log(fruits);
+// console.log(fruits[2]);
+// fruits[1] = 'jambura';
+// console.log(fruits[1]);
+// console.log(fruits);
+
+// // Task -2 Add or remove elements
+// var tourist = ['kuakata', 'sundorban', 'sajek'];
+// console.log(tourist);
+// tourist.push('coxbazar');
+// console.log(tourist);
+// tourist.push('shitakundo', 'srimongol');
+// console.log(tourist);
+// tourist.pop('srimongol');
+// console.log(tourist);
+
+
+// // Task- 2 Checking Array Membership with ‘includes’
+// var books = ['Dracula', 'Karenina', 'javascript', 'Mockingbird', 'Gatsby']; 
+// console.log(books);
+// console.log(books.includes('javascript'));
+// if (books.includes('javascript')){
+//     console.log('This Array  contains a JavaScript book');
+// }
+// else{
+//     console.log('This Array does not contain JavaScript book');
+// }
+
+
+// // Task-04 Checking if it's an Array
+// var num = [4, 5, 6, 10, 34];
+// var animal = ('cow', 'cat', 'dog');
+// console.log(Array.isArray(num));
+// console.log(Array.isArray(animal));
+
+// if(Array.isArray(num)){
+//     console.log('This variable is an array');
+// }
+// else{
+//     console.log('This variable is not an array');
+// }
+// if(Array.isArray(animal)){
+//     console.log('This variable is an array');
+// }
+// else{
+//     console.log('This variable is not an array');
+// }
+
+
+// // Task-5 Combining Arrays
+// var desk = ['noodles', 'chocolate', 'biskut', 'fanta'];
+// var oddNum = [2, 4, 6, 8, 10];
+// var deskAndoddNum = desk.concat(oddNum);
+// console.log(deskAndoddNum);
+// console.log(desk);
+// console.log(oddNum);
