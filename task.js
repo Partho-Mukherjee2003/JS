@@ -96,11 +96,54 @@
 // }
 
 
-// Free Drinks
-var burger = 400;
-if(burger >= 500){
-    console.log('You got a free coke');
-}
-else {
-    console.log('coke price 30tk');
-}
+// // Free Drinks
+// var burger = 400;
+// if(burger >= 500){
+//     console.log('You got a free coke');
+// }
+// else {
+//     console.log('coke price 30tk');
+// }
+
+
+// // Nested if else
+// var myNumber = 85;
+// var myFrndNumber = 90;
+
+// if( myNumber > 80){
+// if(myFrndNumber > 80){
+//     console.log('Go for a lunch');
+//     }
+// else if(myFrndNumber < 80 && myFrndNumber >= 60 ){
+//     console.log( 'Good luck next time.' );
+// }
+// else if (myFrndNumber < 60 && myFrndNumber >= 40){
+//     console.log(' Keep your friends message unseen.');
+// }
+// else if(myFrndNumber < 40) {
+//     console.log('Block your friend');
+// }
+// }
+// else{
+//     console.log(' Go to home and sleep and act sad')
+// 
+// 
+// // tenary
+// var num1 = 12;
+// var num2 = 13;
+// var result;
+
+// if (num1 > num2){
+//   result = num1 * 2;
+// }
+// else {
+//     result = num1 + num2;
+// }
+// console.log(result);
+
+
+// var num1 = 12;
+// var num2 = 13;
+// var result;
+// num1 > num2 ? result = num1 * 2 : result = num2 + num2;
+// console.log(result);
