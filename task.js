@@ -147,3 +147,23 @@
 // var result;
 // num1 > num2 ? result = num1 * 2 : result = num2 + num2;
 // console.log(result);
+
+
+// // Ticket fare Calculator
+// var ticketFare = 800;
+// var age = 60;
+
+// if(age < 10){
+//     console.log('ticket is free');
+// }
+// else if( age < 18){
+//     ticketFare = 800 - (800*50/100);
+//     console.log(ticketFare);
+// }
+// else if (age >= 60){
+//     ticketFare = 800 - (800*15/100);
+//     console.log(ticketFare);
+// }
+// else{
+//     console.log(ticketFare);
+// }
