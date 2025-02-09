@@ -228,3 +228,70 @@
 // console.log(deskAndoddNum);
 // console.log(desk);
 // console.log(oddNum);
+
+
+// -------Loop-------
+// // Task 1
+// var num = 1;
+// while(num <= 60){
+//     console.log(num,'I will invest at least 6 hrs every single day for next 60 days!');
+//     num++;
+// }
+
+// Task- 2
+// var num = 61;
+// while(num <= 100){
+//     if(num % 2 != 0){
+//         console.log(num,'This id odd number');
+//     }
+//     num++;
+// }
+// var num = 78;
+// while(num <= 98){
+    
+//     if(num % 2 === 0){
+//         console.log(num,'This id even number');
+//     }
+//     num++;
+// }
+
+
+// //  Task - 3
+ // var num = 81;
+ // var sum = 0;
+ // while(num <= 131){
+    
+ //     if(num % 2 != 0){
+ //         sum = sum + num
+ //         console.log(sum,'This id odd number sum from 81 to 131.');
+ //     }
+ //     num++;
+ // }
+// var num = 206;
+// var sum = 311;
+// while(num <= 311){
+    
+//     if(num % 2 === 0){
+//         sum = sum + num
+//         console.log(sum,'This is even number sum from 206 to 311.');
+//     }
+//     num++;
+// }
+
+// // let num = 5;
+// // let i = 1;
+// // while(i <= 10){
+// //     console.log(num);
+// //     num = num * i; 
+// //     i++;
+// //     console.log(num);
+
+// // }
+
+// // Task - 5
+// var num = 21;
+// console.log('This is a countdown timer from 21 to 15')
+// while(num >= 15){
+//     console.log(num)
+//     num--;
+// }
