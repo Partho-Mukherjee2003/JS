@@ -295,3 +295,61 @@
 //     console.log(num)
 //     num--;
 // }
+
+
+// break-----
+
+// // task 1
+// var num = 1;
+// while(num <= 200){
+//     if(num > 100){
+//         break;
+//     }
+//     console.log(num);
+//     num++
+// }
+// // task 2
+// let sum = 0;
+// for(let i = 1; i <= 100 ; i++){
+//     sum = sum + i;
+//         if(sum > 100){
+//         break;
+//     }
+//     console.log('Total sum is',sum);
+// }
+
+// // task 3
+
+// let num = 1;
+// while(num <= 100){
+//     console.log(num);
+//     num ++;
+//     if(Number.isInteger(Math.sqrt(num))){
+//         break;
+//     }
+
+// }
+// continue-------
+// // task 1
+// for(let i = 1; i <= 40; i++){
+    
+//     if(i % 2 === 1 ){
+//         continue;
+//     }
+//     console.log(i);
+// }
+
+// // task 2
+// for(let i = 55; i <= 85; i++){
+    
+//     if(i % 2 === 1 ){
+//         if(i % 5 === 0){
+//             continue;
+//         }   
+// console.log(i);
+// }
+    
+        
+    
+// }
+

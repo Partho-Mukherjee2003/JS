@@ -91,9 +91,9 @@
 //  var num = Number(a);
 //  console.log(num);
 
-// var num1 = 23;
-// var num2 = '23';
-// var num3 = 'hello';
-// console.log(isNaN(num1));
-// console.log(isNaN(num2));
-// console.log(isNaN(num3));
+var num1 = 23;
+var num2 = '23';
+var num3 = 'hello';
+console.log(isNaN(num1));
+console.log(isNaN(num2));
+console.log(isNaN(num3));
