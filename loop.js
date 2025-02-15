@@ -79,10 +79,10 @@
 // console.log('i am a single boy');
 
 
-// do while loop
-let n = 1;
-do {
-    console.log(n);
-    n++;
-}
-while(n < 5)
+// // do while loop
+// let n = 1;
+// do {
+//     console.log(n);
+//     n++;
+// }
+// while(n < 5)
