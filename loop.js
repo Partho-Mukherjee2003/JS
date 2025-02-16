@@ -1,4 +1,4 @@
-// var fruits = ['orange', 'apple', 'lichi', 'mango', 'water malon'];
+// var fruits = ['orange', 'apple', 'lichi', 'mango', 'water melon'];
 // console.log(fruits);
 // for(var fruit of fruits){
 //     console.log(fruit);

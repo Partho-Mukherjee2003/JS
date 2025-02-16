@@ -350,3 +350,59 @@
 // }
 // }
 
+
+
+// // Objects task in JS
+// // Task 1
+// const colors = {
+//     red: "#ff0000",
+//     green: "#00ff00",
+//     blue: "#0000ff",
+//     "golden rod": '#daa520'
+// }
+// console.log(colors["golden rod"]);
+
+// //task -2
+// const car = {
+//     make: "Toyota",
+//     model: "Corolla",
+//     year: 2020
+// }
+// car.pessengerCapacity = 5;
+// console.log(car);
+
+// // Task - 3
+// const student = {
+//     name: "Hamim Sakep",
+//     id: 5421,
+//     physics: {
+//         subject: "HSC Physics",
+//         author: "Shahjahan Tapan",
+//         marks: 30
+//     }
+// };
+// console.log(student.physics['marks']);
+
+// // Task 4
+// let student = {
+//     name: 'Ariana Grande',
+//     age: 21,
+//     city: 'Gaibandha',
+//     isStudent: true
+// };
+// let keys = Object.keys(student);
+// // console.log(keys);
+// console.log(keys.length);
+
+// Task - 05
+
+
+
+
+
+
+
+
+
+//---------------------------- String task in JS-------------------------------//
+
