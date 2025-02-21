@@ -76,3 +76,25 @@
 // console.log(specialDate.toLocaleString('en-GB'));
 
 // // unix epoc
+
+// const max = Math.max(45, 4, 3, 566 , 67 ,77);
+// console.log(max);
+
+// const marks = [45, 4, 3, 66 , 67 ,77];
+
+
+// function getMax (array){
+//     //console.log(array);
+//     let max = array[0];
+//     for(const mark of array){
+//         //console.log(mark);
+//         if(max < mark){
+//             max = mark;
+//         }
+
+//     }
+//     return max;
+// }
+
+// const result = getMax(marks);
+// console.log(result);
